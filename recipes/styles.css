@@ -1,0 +1,15 @@
+* {
+    background-color: #fbc979;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+    height: auto;
+    width: 800px;
+}
+
